@@ -1,0 +1,18 @@
+{
+  "name": "kaisan",
+  "version": "1.0.0",
+  "description": "My flawless Nuxt.js project",
+  "author": "Takahiro_YSD",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^7.15.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
